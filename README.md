@@ -3,7 +3,7 @@
 
 ### Overview
 
-Official Python implementation for the work by Sarkar et al. on Improved Algorithms for p-mean Regret Minimisation. [[arXiv]](https://arxiv.org/abs/2601.22969)
+Official Python implementation for the work by Sarkar et al. on improved algorithms for Nash/p-mean regret minimisation in linear bandits. [[arXiv]](https://arxiv.org/abs/2601.22969)
     
 
     
