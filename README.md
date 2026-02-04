@@ -1,9 +1,11 @@
 
-# **Lorem Ipsum**
+# **Improved Algorithms for Nash Welfare in Linear Bandits**
 
 ### Overview
 
-Official Python implementation for another random work
+Official Python implementation for the work by Sarkar et al. on Improved Algorithms for p-mean Regret Minimisation. [[arXiv]](https://arxiv.org/abs/2601.22969)
+    
+
     
 
 ### Repository Structure
